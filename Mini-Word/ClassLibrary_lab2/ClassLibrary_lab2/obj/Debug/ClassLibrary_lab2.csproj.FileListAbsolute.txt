@@ -1,0 +1,6 @@
+E:\C#\3_курс\лаб_3\ClassLibrary_lab2\ClassLibrary_lab2\obj\Debug\ClassLibrary_lab2.csprojAssemblyReference.cache
+E:\C#\3_курс\лаб_3\ClassLibrary_lab2\ClassLibrary_lab2\obj\Debug\ClassLibrary_lab2.csproj.CoreCompileInputs.cache
+E:\C#\3_курс\лаб_3\ClassLibrary_lab2\ClassLibrary_lab2\bin\Debug\ClassLibrary_lab2.dll
+E:\C#\3_курс\лаб_3\ClassLibrary_lab2\ClassLibrary_lab2\bin\Debug\ClassLibrary_lab2.pdb
+E:\C#\3_курс\лаб_3\ClassLibrary_lab2\ClassLibrary_lab2\obj\Debug\ClassLibrary_lab2.dll
+E:\C#\3_курс\лаб_3\ClassLibrary_lab2\ClassLibrary_lab2\obj\Debug\ClassLibrary_lab2.pdb

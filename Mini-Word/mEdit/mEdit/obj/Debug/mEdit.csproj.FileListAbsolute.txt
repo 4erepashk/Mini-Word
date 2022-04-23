@@ -1,0 +1,24 @@
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\bin\Debug\mEdit.exe
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\bin\Debug\mEdit.pdb
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.exe
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.pdb
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.csprojAssemblyReference.cache
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\bin\Debug\mEdit.exe.config
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\bin\Debug\mEdit.exe
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\bin\Debug\mEdit.pdb
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\mEdit.csprojAssemblyReference.cache
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\mEdit.exe
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\mEdit.pdb
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\bin\Debug\ClassLibrary_lab2.dll
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\bin\Debug\ClassLibrary_lab2.pdb
+E:\C#\3_курс\лаб_3\Лаб 2\mEdit\mEdit\obj\Debug\mEdit.csproj.CopyComplete
